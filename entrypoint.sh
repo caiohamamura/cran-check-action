@@ -1,4 +1,6 @@
-# Install R
+#!/bin/sh -l
+
+#Install R
 echo "\e[1mInstalling R and dependencies"
 apt-get update
 
